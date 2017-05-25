@@ -1,0 +1,5 @@
+C:\Users\amynam\Documents\PracticeProj\PracticeProject\MSPractice\bin\Debug\MSPractice.dll
+C:\Users\amynam\Documents\PracticeProj\PracticeProject\MSPractice\bin\Debug\MSPractice.pdb
+C:\Users\amynam\Documents\PracticeProj\PracticeProject\MSPractice\obj\Debug\MSPractice.csprojResolveAssemblyReference.cache
+C:\Users\amynam\Documents\PracticeProj\PracticeProject\MSPractice\obj\Debug\MSPractice.dll
+C:\Users\amynam\Documents\PracticeProj\PracticeProject\MSPractice\obj\Debug\MSPractice.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeProject", "PracticeProject\PracticeProject.csproj", "{6A96ED86-1F31-4EC7-A788-CC6AEB400BEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexDataTypes", "ComplexDataTypes\ComplexDataTypes.csproj", "{D5FDD014-AC3E-4051-A502-A8EF5718942B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSPractice", "MSPractice\MSPractice.csproj", "{60EA04D8-CC99-4FB3-A8DF-502ECCDF3409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A96ED86-1F31-4EC7-A788-CC6AEB400BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A96ED86-1F31-4EC7-A788-CC6AEB400BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A96ED86-1F31-4EC7-A788-CC6AEB400BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A96ED86-1F31-4EC7-A788-CC6AEB400BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5FDD014-AC3E-4051-A502-A8EF5718942B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FDD014-AC3E-4051-A502-A8EF5718942B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FDD014-AC3E-4051-A502-A8EF5718942B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FDD014-AC3E-4051-A502-A8EF5718942B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60EA04D8-CC99-4FB3-A8DF-502ECCDF3409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60EA04D8-CC99-4FB3-A8DF-502ECCDF3409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60EA04D8-CC99-4FB3-A8DF-502ECCDF3409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60EA04D8-CC99-4FB3-A8DF-502ECCDF3409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

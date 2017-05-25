@@ -1,0 +1,8 @@
+C:\Users\amynam\Documents\PracticeProj\PracticeProject\PracticeProject\obj\Debug\PracticeProject.csprojResolveAssemblyReference.cache
+C:\Users\amynam\Documents\PracticeProj\PracticeProject\PracticeProject\bin\Debug\PracticeProject.exe.config
+C:\Users\amynam\Documents\PracticeProj\PracticeProject\PracticeProject\bin\Debug\PracticeProject.exe
+C:\Users\amynam\Documents\PracticeProj\PracticeProject\PracticeProject\bin\Debug\PracticeProject.pdb
+C:\Users\amynam\Documents\PracticeProj\PracticeProject\PracticeProject\obj\Debug\PracticeProject.exe
+C:\Users\amynam\Documents\PracticeProj\PracticeProject\PracticeProject\obj\Debug\PracticeProject.pdb
+C:\Users\amynam\Documents\PracticeProj\PracticeProject\PracticeProject\bin\Debug\MSPractice.dll
+C:\Users\amynam\Documents\PracticeProj\PracticeProject\PracticeProject\bin\Debug\MSPractice.pdb
